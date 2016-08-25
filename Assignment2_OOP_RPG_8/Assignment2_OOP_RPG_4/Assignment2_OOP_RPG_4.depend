@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1451804191 source:c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	"Map.h"
+	"RpgCreature.h"
+	"RpgPerson.h"
+	"RpgPerson_SwordMan.h"
+	"RpgPerson_Thief.h"
+	"RpgPerson_Magician.h"
+	"Monster.h"
+	"Monster_Slime.h"
+	"Monster_Troll.h"
+	"Monster_Dragon.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1450704221 c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\map.h
+	<vector>
+	"RpgPerson.h"
+	<string>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1451326000 c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\rpgperson.h
+	"RpgCreature.h"
+	<vector>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1451324513 c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\rpgcreature.h
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1451325928 c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\rpgperson_swordman.h
+	"RpgCreature.h"
+	"RpgPerson.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1451325977 c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\rpgperson_thief.h
+	"RpgCreature.h"
+	"RpgPerson.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1451325957 c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\rpgperson_magician.h
+	"RpgCreature.h"
+	"RpgPerson.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1451801392 c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\monster.h
+	"RpgCreature.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1451801392 c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\monster_slime.h
+	"RpgCreature.h"
+	"Monster.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1451801392 c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\monster_troll.h
+	"RpgCreature.h"
+	"Monster.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1451801392 c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\monster_dragon.h
+	"RpgCreature.h"
+	"Monster.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1451802785 source:c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\map.cpp
+	"Map.h"
+
+1450671659 source:c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\monster.cpp
+	"Monster.h"
+
+1450671738 source:c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\monster_dragon.cpp
+	"Monster_Dragon.h"
+
+1450633761 source:c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\monster_slime.cpp
+	"Monster_Slime.h"
+
+1450633831 source:c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\monster_troll.cpp
+	"Monster_Troll.h"
+
+1451324567 source:c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\rpgcreature.cpp
+	"RpgCreature.h"
+	"Map.h"
+
+1451798187 source:c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\rpgperson.cpp
+	"RpgPerson.h"
+	"Map.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1451325957 source:c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\rpgperson_magician.cpp
+	"RpgPerson_Magician.h"
+
+1451325917 source:c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\rpgperson_swordman.cpp
+	"RpgPerson_SwordMan.h"
+
+1451325977 source:c:\users\sheng\desktop\assignment2_oop_rpg_8\assignment2_oop_rpg_4\rpgperson_thief.cpp
+	"RpgPerson_Thief.h"
+
