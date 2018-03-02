@@ -1,3 +1,0 @@
-1.使用Codeblock
-(way1)-可直接開啟Assignment2_OOP_RPG_4 (Project file) Rebuild後編譯執行
-(way2)-若way1無法，可開啟Codeblock並將所有main,cpp及.h檔匯入並執行
